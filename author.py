@@ -1,3 +1,3 @@
-class Author()
- if book ="Fictional"
+class Author(book)
+ if book ="Non-Fiction"
     Author ="Port"
